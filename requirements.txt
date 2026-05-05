@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+seaborn
+matplotlib
+streamlit
+uvicorn
+fastapi
+python-dotenv
+requests
+mlflow
+dagshub
+pymongo
+-e .

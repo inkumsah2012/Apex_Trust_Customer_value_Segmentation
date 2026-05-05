@@ -3,6 +3,9 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+apextrust_env/
+Dataset/
+.env/
 # C extensions
 *.so
 
